@@ -45,6 +45,14 @@
 .nanumBarunGothic {
     font-family: "nanumBarunGothic";
 }
+.nanumBarunGothic200 {
+    font-family: "nanumBarunGothic";
+    font-weight: 200;
+}
+.nanumBarunGothic300 {
+    font-family: "nanumBarunGothic";
+    font-weight: 300;
+}
 .nanumBarunGothic400 {
     font-family: "nanumBarunGothic";
     font-weight: 400;
@@ -52,8 +60,4 @@
 .nanumBarunGothic700 {
     font-family: "nanumBarunGothic";
     font-weight: 700;
-}
-.nanumBarunGothic800 {
-    font-family: "nanumBarunGothic";
-    font-weight: 800;
 }
